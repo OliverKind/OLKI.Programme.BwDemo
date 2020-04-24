@@ -12,5 +12,9 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 - N/A
 
+## [1.0.1.2] - 2020-04-25
+### Fixed
+- Spelling
+
 ## [1.0.0.1] - 2020-04-19
 ### Initial release
