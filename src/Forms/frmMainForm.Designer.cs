@@ -176,7 +176,7 @@
             this.chkModalMsg.Name = "chkModalMsg";
             this.chkModalMsg.Size = new System.Drawing.Size(177, 17);
             this.chkModalMsg.TabIndex = 4;
-            this.chkModalMsg.Text = "Modal Dialkogbox bei Durchlauf";
+            this.chkModalMsg.Text = "Modale Dialogbox bei Durchlauf";
             this.chkModalMsg.UseVisualStyleBackColor = true;
             // 
             // chkModalForm
@@ -186,9 +186,9 @@
             this.chkModalForm.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkModalForm.Location = new System.Drawing.Point(125, 91);
             this.chkModalForm.Name = "chkModalForm";
-            this.chkModalForm.Size = new System.Drawing.Size(164, 17);
+            this.chkModalForm.Size = new System.Drawing.Size(175, 17);
             this.chkModalForm.TabIndex = 6;
-            this.chkModalForm.Text = "Modal Formular bei Durchlauf";
+            this.chkModalForm.Text = "Modales Formular bei Durchlauf";
             this.chkModalForm.UseVisualStyleBackColor = true;
             // 
             // nudModalMsg
@@ -307,7 +307,7 @@
             this.MinimizeBox = false;
             this.Name = "frmMainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "BwDemo";
             this.HelpButtonClicked += new System.ComponentModel.CancelEventHandler(this.MainForm_HelpButtonClicked);
             ((System.ComponentModel.ISupportInitialize)(this.nudLoops)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudSleep)).EndInit();

@@ -88,7 +88,7 @@ namespace OLKI.Programme.BwDemo.src.Forms {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Zum Forfahren eine beliebige Auswahl treffen. ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Zum Fortfahren eine beliebige Auswahl treffen. ähnelt.
         /// </summary>
         internal static string _0x0002m {
             get {
